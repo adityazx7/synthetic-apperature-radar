@@ -1,0 +1,16 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.slxc
+*.mex*
+slprj/
+
+# Python cache & scratch files
+scratch/
+__pycache__/
+*.pyc
+
+# OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
