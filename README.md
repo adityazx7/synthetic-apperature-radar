@@ -1,7 +1,6 @@
 # Synthetic Aperture Radar (SAR) Simulation & Multi-Modal Intelligence Suite
 
 [![MATLAB](https://img.shields.io/badge/Platform-MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Status: Verified](https://img.shields.io/badge/Status-Fully%20Benchmarked-brightgreen.svg)]()
 [![Report: IEEE](https://img.shields.io/badge/Report-IEEE%20Format-red.svg)]()
 
@@ -185,8 +184,4 @@ A comprehensive, mathematically rigorous Synthetic Aperture Radar (SAR) computat
 * **Aditya Pawar** - Department of Computer Engineering, Vidyalankar Institute of Technology
 * **Mayur Naik** - Department of Computer Engineering, Vidyalankar Institute of Technology
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
